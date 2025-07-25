@@ -1,0 +1,76 @@
+iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDkuMC1jMDAwIDc5LjE3MWMyN2ZhYiwgMjAyMy8wOS8yMC0xMTozNTozMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDI1LjIgKFdpbmRvd3MpIiB4bXA6Q3JlYXRlRGF0ZT0iMjAyNC0wOC0wMlQwMDozNDowNCswNTozMCIgeG1wOk1vZGlmeURhdGU9IjIwMjQtMDgtMDJUMDA6Mzk6MzQrMDU6MzAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjQtMDgtMDJUMDA6Mzk6MzQrMDU6MzAiIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5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lJ8pMkiQAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAKAgAAgAAK-w'
+  </change>-
+  <change>
+    <file>/README.md</file>
+    <content><![CDATA[# BahasAI - Your Personal AI Tutor for Indonesian Languages
+
+BahasAI is an innovative web application designed to be a personal AI tutor for learning various Indonesian languages, including Bahasa Indonesia, Javanese, and Sundanese. It provides an interactive chat interface where users can ask questions and receive answers in their chosen language, along with an English translation to aid understanding.
+
+This project was built for a hackathon, showcasing the power of generative AI in education.
+
+## Features
+
+- **AI Language Tutor**: Chat with an AI that can answer questions in Bahasa Indonesia, Javanese, or Sundanese.
+- **Dual Language Responses**: Get answers in the selected language and an optional English translation for every response.
+- **Text-to-Speech (TTS)**: Listen to the AI's response in the original language to improve pronunciation.
+- **Built-in Translator**: A handy tool to translate text between any of the supported languages, including English.
+- **Sleek, Modern UI**: A beautiful and responsive user interface built with Next.js, ShadCN UI, and Tailwind CSS, with a custom theme inspired by your brand.
+- **Persistent Chat History**: Your conversation is saved in your browser's local storage, so you can pick up where you left off.
+- **Animated Interface**: Smooth animations to enhance the user experience.
+
+## Tech Stack
+
+- **Framework**: [Next.js](https://nextjs.org/) (App Router)
+- **AI/Backend**: [Firebase Genkit](https://firebase.google.com/docs/genkit) with Google Gemini models
+- **UI Components**: [ShadCN UI](https://ui.shadcn.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment**: [Firebase App Hosting](https://firebase.google.com/docs/hosting)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or later)
+- npm or yarn
+
+### Setup
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/bahas-ai.git
+    cd bahas-ai
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3.  **Set up environment variables:**
+    Create a `.env.local` file in the root of the project and add your Google AI API key:
+    ```
+    GEMINI_API_KEY=your_google_ai_api_key
+    ```
+
+4.  **Run the development server:**
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
+
+    Open [http://localhost:9002](http://localhost:9002) with your browser to see the result.
+
+## How It Works
+
+The application uses Firebase Genkit to create AI "flows". These server-side functions handle the logic for interacting with the Google Gemini models.
+
+- `generate-response.ts`: This flow takes a user's question and the selected language. It prompts the AI to respond in that language and also provide an English translation.
+- `translate-text.ts`: This flow powers the translation tool, translating text between supported languages.
+- `generate-audio-from-text.ts`: This flow takes text and generates audio using a Text-to-Speech model, allowing users to hear the pronunciation.
+
+The frontend is built with React Server Components and client components where interactivity is needed, following Next.js best practices.
+
+Good luck with your submission!
